@@ -1,1 +1,563 @@
+<?xml version="1.0" encoding="UTF-8" standalone="true"?>
 
+-<IPTVExtreme>
+
+
+-<Settings>
+
+<KEY value="false" chiave="builtin_chooser"/>
+
+<KEY value="false" chiave="application_user_agent_active"/>
+
+<KEY value="false" chiave="application_allow_cache"/>
+
+<KEY value="false" chiave="player_skipframe"/>
+
+<KEY value="false" chiave="enable_pip"/>
+
+<KEY value="D" chiave="player_interface"/>
+
+<KEY value="-2" chiave="player_clock_synchro"/>
+
+<KEY value="false" chiave="load_secondary_epg"/>
+
+<KEY value="false" chiave="player_use_default"/>
+
+<KEY value="false" chiave="use_dns_exchange"/>
+
+<KEY value="false" chiave="player_remember_subs"/>
+
+<KEY value="50" chiave="player_list_size"/>
+
+<KEY value="true" chiave="player_remember_last_position"/>
+
+<KEY value="TR" chiave="player_clock_position"/>
+
+<KEY value="false" chiave="ampm_time_format"/>
+
+<KEY value="-1" chiave="player_deinterlace_type"/>
+
+<KEY value="true" chiave="keep_screen_on"/>
+
+<KEY value="7" chiave="aspect_ratio"/>
+
+<KEY value="true" chiave="dpad_info_showed"/>
+
+<KEY value="true" chiave="stop_playback_on_pause"/>
+
+<KEY value="false" chiave="playlist_xtream_mode_standard"/>
+
+<KEY value="true" chiave="playlist_show_imported"/>
+
+<KEY value="true" chiave="load_epg"/>
+
+<KEY value="false" chiave="search_epg_onn_server"/>
+
+<KEY value="-1" chiave="player_deinterlace_mode"/>
+
+<KEY value="NEXT" chiave="playfinish_action"/>
+
+<KEY value="2501" chiave="player_rotation"/>
+
+<KEY value="false" chiave="tv_mode_layout"/>
+
+<KEY value="false" chiave="player_show_reconnect"/>
+
+<KEY value="false" chiave="enable_fast_scroll"/>
+
+<KEY value="false" chiave="amazon_device"/>
+
+<KEY value="false" chiave="show_portal_errors"/>
+
+<KEY value="false" chiave="auto_download_subs"/>
+
+<KEY value="10" chiave="player_scroll_size"/>
+
+<KEY value="ADVANCED" chiave="internal_player"/>
+
+<KEY value="false" chiave="reverse_order"/>
+
+<KEY value="true" chiave="playlist_local_copy"/>
+
+<KEY value="false" chiave="allow_core_timeout"/>
+
+<KEY value="-1" chiave="player_hw_decoder"/>
+
+<KEY value="99" chiave="epg_timezone"/>
+
+<KEY value="DEFAULT" chiave="selected_language"/>
+
+<KEY value="false" chiave="mac_history_on_tv"/>
+
+<KEY value="true" chiave="override_picons"/>
+
+<KEY value="false" chiave="player_force_video_size"/>
+
+<KEY value="false" chiave="playlist_auto_groups"/>
+
+<KEY value="0" chiave="chromecast_mode"/>
+
+<KEY value="30000" chiave="network_connection_timeout"/>
+
+<KEY value="false" chiave="player_user_agent_active"/>
+
+<KEY value="true" chiave="application_remember_mac"/>
+
+<KEY value="true" chiave="playlist_uppercase_name"/>
+
+<KEY value="true" chiave="change_log_showed"/>
+
+<KEY value="true" chiave="player_http_reconnect"/>
+
+<KEY value="false" chiave="use_default_player"/>
+
+<KEY value="false" chiave="player_disable_number"/>
+
+<KEY value="-1" chiave="player_deblocking"/>
+
+<KEY value="0" chiave="player_audio_gain"/>
+
+<KEY value="false" chiave="player_higher_infobar"/>
+
+<KEY value="false" chiave="player_use_stats"/>
+
+<KEY value="false" chiave="player_hide_menu_ontv"/>
+
+<KEY value="16777215" chiave="player_subtitle_color"/>
+
+<KEY value="GROUPS" chiave="player_left_right_action"/>
+
+<KEY value="false" chiave="player_ffmpeg"/>
+
+<KEY value="false" chiave="modded_store_found"/>
+
+<KEY value="360" chiave="player_sleep_timer"/>
+
+<KEY value="4" chiave="max_pool_size"/>
+
+<KEY value="false" chiave="show_notification"/>
+
+<KEY value="0.90" chiave="player_osd_alpha"/>
+
+<KEY value="true" chiave="enable_recents_menu"/>
+
+<KEY value="true" chiave="player_enable_swipe"/>
+
+<KEY value="16" chiave="player_subtitle_size"/>
+
+<KEY value="true" chiave="player_remember_audio_delay"/>
+
+<KEY value="false" chiave="player_deinterlace_video"/>
+
+<KEY value="false" chiave="playlist_expire_warning"/>
+
+<KEY value="false" chiave="player_fast_avcodec"/>
+
+<KEY value="0" chiave="afr_requests_delay"/>
+
+<KEY value="-1" chiave="player_opengl"/>
+
+<KEY value="true" chiave="show_playlist_main_group"/>
+
+<KEY value="false" chiave="use_device_threadpool"/>
+
+<KEY value="0" chiave="dev_requests_delay"/>
+
+<KEY value="false" chiave="first_time_for_tv"/>
+
+<KEY value="false" chiave="player_disable_functions"/>
+
+<KEY value="-1" chiave="player_hw_acceleration"/>
+
+<KEY value="true" chiave="use_playlistgroups"/>
+
+<KEY value="300" chiave="IABTCF_CmpSdkID"/>
+
+<KEY value="false" chiave="player_force_tv_mode"/>
+
+<KEY value="true" chiave="doubleclick_default_player"/>
+
+<KEY value="false" chiave="update_playlist_background"/>
+
+<KEY value="1" chiave="dev_protection_type"/>
+
+<KEY value="2" chiave="IABTCF_idfaFlowControl"/>
+
+<KEY value="true" chiave="use_srp_picons"/>
+
+<KEY value="true" chiave="check_wifi"/>
+
+<KEY value="0" chiave="epg_loading_mode"/>
+
+<KEY value="false" chiave="player_force_touch_in_tv_mode"/>
+
+<KEY value="40" chiave="player_details_size"/>
+
+<KEY value="true" chiave="ask_for_update"/>
+
+<KEY value="false" chiave="playlist_inuse_warning"/>
+
+<KEY value="false" chiave="portal_modify_confirm"/>
+
+<KEY value="-2" chiave="player_best_resolution"/>
+
+<KEY value="true" chiave="player_yuv_rgb_conversion"/>
+
+<KEY value="false" chiave="player_show_error"/>
+
+<KEY value="true" chiave="backup_playlist_choice"/>
+
+<KEY value="30000" chiave="network_read_timeout"/>
+
+<KEY value="false" chiave="mark_fake_channels"/>
+
+<KEY value="true" chiave="player_harry_up"/>
+
+<KEY value="false" chiave="start_onboot"/>
+
+<KEY value="false" chiave="playlist_xtream_mode"/>
+
+<KEY value="" chiave="playlist_start_group"/>
+
+<KEY value="0" chiave="channel_numer_start"/>
+
+<KEY value="false" chiave="audio_digital_output"/>
+
+<KEY value="list" chiave="listgrid_key"/>
+
+<KEY value="false" chiave="player_audio_time_stretch"/>
+
+<KEY value="false" chiave="load_epg_on_standby"/>
+
+<KEY value="-1" chiave="player_scale_mode"/>
+
+<KEY value="2" chiave="core_pool_size"/>
+
+<KEY value="default" chiave="playlist_order"/>
+
+<KEY value="true" chiave="application_follows_redirect"/>
+
+<KEY value="true" chiave="auto_playlist"/>
+
+<KEY value="true" chiave="player_hdtv_fix"/>
+
+<KEY value="true" chiave="player_subtitles_background"/>
+
+<KEY value="112" chiave="first_run"/>
+
+<KEY value="true" chiave="picons_fixed"/>
+
+<KEY value="false" chiave="epg_all_links"/>
+
+<KEY value="Default" chiave="selected_theme"/>
+
+<KEY value="true" chiave="player_window_decoration"/>
+
+<KEY value="1f" chiave="player_progressbar_size"/>
+
+<KEY value="48" chiave="epg_frequency"/>
+
+<KEY value="0" chiave="text_scrolling_on"/>
+
+<KEY value="false" chiave="player_experimental_functions"/>
+
+<KEY value="true" chiave="hide_channel_number"/>
+
+<KEY value="0" chiave="IABTCF_gdprApplies"/>
+
+<KEY value="true" chiave="show_horizontal_categories"/>
+
+<KEY value="true" chiave="portal_active"/>
+
+<KEY value="false" chiave="player_permanent_clock"/>
+
+<KEY value="false" chiave="stop_player_oncreate"/>
+
+<KEY value="-1" chiave="player_audio_output"/>
+
+<KEY value="true" chiave="order_series_categories"/>
+
+<KEY value="true" chiave="play_onclick"/>
+
+<KEY value="2" chiave="grid_column_number"/>
+
+<KEY value="-1" chiave="player_post_proc"/>
+
+<KEY value="-1" chiave="auto_frame_rate"/>
+
+<KEY value="0" chiave="playlist_start_mode"/>
+
+<KEY value="true" chiave="show_playlist_favourites_group"/>
+
+<KEY value="true" chiave="player_remember_audio_track"/>
+
+<KEY value="true" chiave="load_epg_auto"/>
+
+<KEY value="10" chiave="menu_recents_size"/>
+
+<KEY value="RV16" chiave="player_chroma"/>
+
+<KEY value="0" chiave="slide_epg"/>
+
+</Settings>
+
+
+-<Playlists>
+
+<PLAYLIST useragent="" catchup="0" mode="" format="ts" startgroup="" vpnprofile="" usevpn="0" locked="0" hidden="1" ismag="0" xtream_use_link="0" xtream="0" magmac="" magportal="" password="" username="" server="" user="1" used="1" link="BR8rhTkhASWGgLbhp/D90hsRdjgLCT9aj0OQKYlgb1vi02aLYTHngFNvDS3ex9niEhoko8NGauSLFIZa4GaRfEp3huuhC08Flt9DSAipyRjN2rthhWyMHJRknJg3lfnI" name="B.P.GROUP" id="0"/>
+
+</Playlists>
+
+
+-<PlaylistGroups>
+
+<PLAYLISTGROUP hidden="1" name="live: african countries" id="0" custom="0" position="2" originalposition="1" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="live: albania" id="1" custom="0" position="1" originalposition="2" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: arab countries" id="2" custom="0" position="3" originalposition="3" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="live: austria" id="3" custom="0" position="4" originalposition="4" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: bein media group" id="4" custom="0" position="5" originalposition="5" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="ive: bein media group" id="5" custom="0" position="6" originalposition="6" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: belgium" id="6" custom="0" position="7" originalposition="7" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: bulgaria" id="7" custom="0" position="8" originalposition="8" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: czech & slovakia" id="8" custom="0" position="9" originalposition="9" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: denmark" id="9" custom="0" position="10" originalposition="10" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="live: baltic states" id="10" custom="0" position="11" originalposition="11" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: ex-yu countries" id="11" custom="0" position="12" originalposition="12" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: finland" id="12" custom="0" position="13" originalposition="13" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: france" id="13" custom="0" position="14" originalposition="14" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="movie: french" id="14" custom="0" position="15" originalposition="15" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="live: germany" id="15" custom="0" position="16" originalposition="16" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: greece" id="16" custom="0" position="17" originalposition="17" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: hungary" id="17" custom="0" position="18" originalposition="18" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: thailand" id="18" custom="0" position="19" originalposition="19" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: iran" id="19" custom="0" position="20" originalposition="20" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: italy" id="20" custom="0" position="21" originalposition="21" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: iraqi kurdistan" id="21" custom="0" position="22" originalposition="22" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: latin america" id="22" custom="0" position="23" originalposition="23" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: macedonia" id="23" custom="0" position="24" originalposition="24" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: netherlands" id="24" custom="0" position="25" originalposition="25" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: norway" id="25" custom="0" position="26" originalposition="26" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: other countries" id="26" custom="0" position="27" originalposition="27" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: south asian countries" id="27" custom="0" position="28" originalposition="28" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: poland" id="28" custom="0" position="29" originalposition="29" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: portugal" id="29" custom="0" position="30" originalposition="30" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: romania" id="30" custom="0" position="31" originalposition="31" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: russia" id="31" custom="0" position="32" originalposition="32" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: spain" id="32" custom="0" position="33" originalposition="33" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="movie: spain" id="33" custom="0" position="34" originalposition="34" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: sweden" id="34" custom="0" position="35" originalposition="35" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="movie: swedish" id="35" custom="0" position="36" originalposition="36" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: switzerland" id="36" custom="0" position="37" originalposition="37" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: turkey" id="37" custom="0" position="38" originalposition="38" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: united kingdom" id="38" custom="0" position="39" originalposition="39" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="live: premier league & efl" id="39" custom="0" position="40" originalposition="40" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: usa & canada" id="40" custom="0" position="41" originalposition="41" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: nfl" id="41" custom="0" position="42" originalposition="42" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="live: live events" id="42" custom="0" position="43" originalposition="43" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="movie: events" id="43" custom="0" position="44" originalposition="44" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="live: 24/7" id="44" custom="0" position="45" originalposition="45" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="live: for adults" id="45" custom="0" position="46" originalposition="46" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="movie: for adults" id="46" custom="0" position="47" originalposition="47" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="movie: ex-yu" id="47" custom="0" position="48" originalposition="48" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="movie: cartoon multi subtitles" id="48" custom="0" position="49" originalposition="49" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="movie: english" id="49" custom="0" position="50" originalposition="50" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="movie: christmas" id="50" custom="0" position="51" originalposition="51" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="movie: german" id="51" custom="0" position="52" originalposition="52" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="movie: imdb top 250" id="52" custom="0" position="53" originalposition="53" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="movie: indian" id="53" custom="0" position="54" originalposition="54" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="movie: 4k" id="54" custom="0" position="55" originalposition="55" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="movie: multi subtitles" id="55" custom="0" position="56" originalposition="56" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="movie: oscar movies" id="56" custom="0" position="57" originalposition="57" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="movie: swedish (kids)" id="57" custom="0" position="58" originalposition="58" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="movie: turkish" id="58" custom="0" position="59" originalposition="59" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="movie: hbo" id="59" custom="0" position="60" originalposition="60" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="movie: netflix" id="60" custom="0" position="61" originalposition="61" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="movie: disney" id="61" custom="0" position="62" originalposition="62" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="movie: amazon prime" id="62" custom="0" position="63" originalposition="63" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="series: other" id="63" custom="0" position="64" originalposition="64" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="series: netflix" id="64" custom="0" position="65" originalposition="65" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="series: hbo" id="65" custom="0" position="66" originalposition="66" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="0" name="series: amazon prime" id="66" custom="0" position="67" originalposition="67" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="series: disney" id="67" custom="0" position="68" originalposition="68" playlistid="0"/>
+
+<PLAYLISTGROUP hidden="1" name="series: swedish" id="68" custom="0" position="69" originalposition="69" playlistid="0"/>
+
+</PlaylistGroups>
+
+
+-<Aliases>
+
+<ALIAS name="BEIN SPORTS 1 SD QA" channelid="amc.qa"/>
+
+<ALIAS name="BEIN SPORTS 2 SD QA" channelid="beinsports3.fr"/>
+
+<ALIAS name="BEIN SPORTS 3 4K QA" channelid="beinsports3.fr"/>
+
+<ALIAS name="BEIN SPORTS 3 SD QA" channelid="beinsports3.fr"/>
+
+<ALIAS name="SUPERSPORT 2 FHD AL" channelid="SuperSport2.al"/>
+
+<ALIAS name="SKY SPORT 6 DE" channelid="skysport1.de"/>
+
+<ALIAS name="EXPLORER SHKENCË AL" channelid="EXPShkence.al"/>
+
+<ALIAS name="EXPLORER NATYRA AL" channelid="EXPNatyra.al"/>
+
+<ALIAS name="EXPLORER NATYRA (BACKUP) AL" channelid="EXPNatyra.al"/>
+
+<ALIAS name="TRING ACTION AL" channelid="TringAction.al"/>
+
+<ALIAS name="TRING COMEDY AL" channelid="TringComedy.al"/>
+
+<ALIAS name="TRING PLANET AL" channelid="TringPlanet.al"/>
+
+<ALIAS name="SKY BUNDESLIGA 7 FHD DE" channelid="SkyBundesliga7.de"/>
+
+<ALIAS name="SUPERSPORT NEWS FHD AL" channelid="SuperSportNews.al"/>
+
+<ALIAS name="SKY BUNDESLIGA 8 FHD DE" channelid="SkyBundesliga8.de"/>
+
+<ALIAS name="SKY BUNDESLIGA 9 DE" channelid="SkyBundesliga9.de"/>
+
+<ALIAS name="SKY BUNDESLIGA 9 FHD DE" channelid="SkyBundesliga9.de"/>
+
+<ALIAS name="SKY BUNDESLIGA 10 DE" channelid="SkyBundesliga10.de"/>
+
+<ALIAS name="SKY BUNDESLIGA 10 FHD DE" channelid="SkyBundesliga10.de"/>
+
+<ALIAS name="TOP CHANNEL FHD AL" channelid="TringComedy.al"/>
+
+<ALIAS name="HUSTLER TV (18+) US" channelid="HustlerTV.fr"/>
+
+<ALIAS name="PENTHOUSE GOLD HD (18+) US" channelid="PenthouseGold.us"/>
+
+<ALIAS name="PENTHOUSE QUICKIES HD (18+) US" channelid="PenthouseQuickies.us"/>
+
+<ALIAS name="REDLIGHT HD (18+) IT" channelid="Redlight.pl"/>
+
+<ALIAS name="DORCEL TV FHD (18+) NL" channelid="DorcelTV.fr"/>
+
+<ALIAS name="PRIVATE TV (18+) NL" channelid="PrivateTV.fr"/>
+
+<ALIAS name="PRIVATE TV HD (18+) NL" channelid="PrivateTV.fr"/>
+
+<ALIAS name="KLAN KOSOVA HD AL" channelid="KlanKosova.al"/>
+
+<ALIAS name="TRING WORLD AL" channelid="TringWorld.al"/>
+
+<ALIAS name="TRING HISTORY AL" channelid="T-Hist.al"/>
+
+<ALIAS name="SUPERSPORT KOSOVA 1 AL" channelid="SuperSportKosova1.al"/>
+
+<ALIAS name="SUPERSPORT KOSOVA 2 AL" channelid="SuperSportKosova2.al"/>
+
+<ALIAS name="SUPERSPORT KOSOVA 3 AL" channelid="SuperSportKosova3.al"/>
+
+<ALIAS name="SUPERSPORT 2 HD AL" channelid="SuperSport2.al"/>
+
+<ALIAS name="SUPERSPORT 3 FHD AL" channelid="SuperSport3.al"/>
+
+<ALIAS name="SUPERSPORT 3 HD AL" channelid="SuperSport3.al"/>
+
+<ALIAS name="SUPERSPORT 4 FHD AL" channelid="SuperSport4.al"/>
+
+<ALIAS name="SUPERSPORT 4 HD AL" channelid="SuperSport4.al"/>
+
+<ALIAS name="SUPERSPORT 5 FHD AL" channelid="SuperSport5.al"/>
+
+<ALIAS name="SUPERSPORT 5 HD AL" channelid="SuperSport5.al"/>
+
+<ALIAS name="TRUE PREMIER FOOTBALL HD 1 TH" channelid="NBCSportsNetwork.us"/>
+
+<ALIAS name="EXPLORER HISTORI AL" channelid="EXPHistori.al"/>
+
+</Aliases>
+
+
+-<WorkingLogos>
+
+<LOGOS link="https://picon-13398.kxcdn.com/rtk1al.jpg" channelid="null" channelname="RTK1 (BACKUP) AL"/>
+
+</WorkingLogos>
+
+
+-<HISTORY>
+
+<VOD name="BARELY LEGAL 117 [ADULT-2011]" position="513860" length="5321120"/>
+
+<VOD name="BLINDSIDED [ADULT-2020]" position="2249152" length="2441429"/>
+
+<VOD name="Hand of God - S01E01 - Pilot" position="917653" length="4006030"/>
+
+<VOD name="THE LION KING [MULTI-SUBS] [2019] 4K" position="628922" length="7094571"/>
+
+</HISTORY>
+
+</IPTVExtreme>
